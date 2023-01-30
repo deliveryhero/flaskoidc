@@ -7,6 +7,7 @@ requirements = [
     "Authlib>=1.0.0,<2.0.0",
     "requests>=2.25.1",
     "Flask-SQLAlchemy>=2.5.1,<3.0.0",
+    "sqlalchemy>=1.0.0,<2.0.0"
 ]
 
 # read the contents of your README file
